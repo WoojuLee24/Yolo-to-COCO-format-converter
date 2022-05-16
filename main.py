@@ -17,12 +17,18 @@ import numpy as np
 
 YOLO_DARKNET_SUB_DIR = "YOLO_darknet"
 
+# classes = [
+#     "chair",
+#     "handle",
+#     "table",
+#     "button",
+#     "person",
+# ]
 classes = [
-    "chair",
-    "handle",
-    "table",
-    "button",
-    "person",
+    "Car",
+    "Human",
+    "Motorcycle",
+    "Bicycle",
 ]
 
 
